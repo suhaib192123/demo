@@ -33,7 +33,7 @@ async def start(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("SOURCE CODE", url="github.com/1Danish-00/CompressorBot"),
+                Button.url("YOUTUBE VIDEO", url="https://youtu.be/Ddd4_91YDNI"),
                 Button.url("DEVELOPER", url="t.me/danish_00"),
             ],
         ],
@@ -60,7 +60,7 @@ async def beck(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("SOURCE CODE", url="github.com/1Danish-00/"),
+                Button.url("youtube video", url="https://youtu.be/Ddd4_91YDNI"),
                 Button.url("DEVELOPER", url="t.me/danish_00"),
             ],
         ],
